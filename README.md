@@ -19,4 +19,4 @@ I first performed data wrangling on 1,500 records to eliminate N/A and missing v
 
 ## Outcome 
 
-While the Logistic Regression model gave the highest accuracy, the Ridge Regression model gave the lowest mean squared error. It was interesting to note that while the accuracy ranged from 40-60%; logistic regression gave an overall higher accuracy of 80%. Based on this finding, I believe Ridge Regression would be the optimal choice with the lowest mean squared error of 10% and accuracy of 64%. 
+While the Logistic Regression model gave the highest accuracy but also the highest mean squared error, the Ridge Regression model gave the lowest mean squared error with an accuracy of 64%. It was interesting to note that while the accuracy ranged from 40-60% for other models; logistic regression gave an overall higher accuracy of 80%. Based on this finding, I believe Ridge Regression gave the closest predictions with the lowest mean squared error of 10% and an optimal accuracy of 64%. 
